@@ -7,6 +7,8 @@ Heres a link to my github.io website
 Here are some stats about my github thanks to the github-readme-stats by <a href="https://github.com/anuraghazra">@anuraghazra</a>
 
 That should show way more JS and python btw
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanSD3&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrendanSD3&show_icons=true&theme=radical&count_private=true&custom_title=My%20stats%20including%20Private%20Repos)
