@@ -14,7 +14,12 @@ That should show way more JS and python btw
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrendanSD3&show_icons=true&theme=radical&count_private=true&custom_title=My%20stats%20including%20Private%20Repos)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=Fullstack-JS" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=AngularJSAPI" />
+</a>
 
 <!--
 **BrendanSD3/BrendanSD3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
