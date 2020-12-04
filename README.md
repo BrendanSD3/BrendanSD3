@@ -14,10 +14,10 @@ That should show way more JS and python btw
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrendanSD3&show_icons=true&theme=radical&count_private=true&custom_title=My%20stats%20including%20Private%20Repos)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BrendanSD3/AngularJSAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=Fullstack-JS" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/BrendanSD3/Fullstack-JS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=AngularJSAPI" />
 </a>
 
