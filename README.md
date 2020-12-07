@@ -23,8 +23,8 @@ That should show way more JS and python btw
 <a href="https://github.com/BrendanSD3/AngularJSAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=Fullstack-JS" />
 </a>
-<a href="https://github.com/BrendanSD3/Fullstack-JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=AngularJSAPI" />
+<a href="https://github.com/BrendanSD3/LaravelLearning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=LaravelLearning" />
 </a>
 
 <!--
