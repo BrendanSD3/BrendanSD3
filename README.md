@@ -21,10 +21,10 @@ That should show way more JS and python btw
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrendanSD3&show_icons=true&theme=radical&count_private=true&custom_title=My%20stats%20including%20Private%20Repos" />
 </a>
 <a href="https://github.com/BrendanSD3/AngularJSAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=Fullstack-JS" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=AngularJSAPI" />
 </a>
-<a href="https://github.com/BrendanSD3/LaravelLearning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=LaravelLearning" />
+<a href="https://github.com/BrendanSD3/BrendanSD3.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=BrendanSD3.github.io" />
 </a>
 
 <!--
