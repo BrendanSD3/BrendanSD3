@@ -16,7 +16,7 @@ Here are some stats about my github thanks to the github-readme-stats by <a href
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrendanSD3&show_icons=true&theme=radical&count_private=true&custom_title=My%20stats%20including%20Private%20Repos" />
 </a>
 
-<h2>Check out my project using angularJS! - it uses the Formula 1 api provided by Eargast to display a table of teams and drivers from each year.</h2>
+<h2>Check out my project using angularJS! - it uses the Formula 1 api provided by Ergast to display a table of teams and drivers from each year.</h2>
 <a href="https://github.com/BrendanSD3/AngularJSAPI">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=AngularJSAPI" />
 </a>
