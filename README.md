@@ -7,13 +7,16 @@ Heres a link to my github.io website
 Here are some stats about my github thanks to the github-readme-stats by <a href="https://github.com/anuraghazra">@anuraghazra</a>
 
 
-
+<h2>Top 5 languages I use most: </h2>
 <a href="https://github.com/BrendanSD3/">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanSD3&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=10"/>
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanSD3&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=5"/>
 </a>
+<h2>My repos and my current contribution stats for this year</h2>
 <a href="https://github.com/BrendanSD3/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrendanSD3&show_icons=true&theme=radical&count_private=true&custom_title=My%20stats%20including%20Private%20Repos" />
 </a>
+
+Check out my project using angularJS! - it uses the Formula 1 api provided by Eargast to display a table of teams and drivers from each year.
 <a href="https://github.com/BrendanSD3/AngularJSAPI">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BrendanSD3&repo=AngularJSAPI" />
 </a>
